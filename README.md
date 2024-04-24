@@ -1,8 +1,8 @@
 How to Play:
 
-1. Choose: rock, paper, or scissors.
-2. Computer generates a random move.
-3. Discover the winner!
+Choose: rock, paper, or scissors.
+Computer generates a random move.
+Discover the winner!
 
 
 Contributions:
